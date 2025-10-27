@@ -1,0 +1,24 @@
+# Environment
+.env
+.env.local
+*.pyc
+__pcache__/
+*.egg-info/
+dist/
+detailaid/app
+profile
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+-OS_Store
+Thumbs.db
+
+# Dependencies
+venv/
+eav/
+
